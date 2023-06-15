@@ -1,7 +1,7 @@
 # real-time-audio-processing
 
 ## 📚 Descrição ##
-**Análise espectral de um sinal de áudio em tempo real.**
+**Análise espectral de um sinal de áudio em tempo real utilizando *MATLAB*.**
 
 ### 🔗 Tecnologias utilizadas: ### 
 - [MATLAB v2019a](https://www.mathworks.com/products/matlab.html)
