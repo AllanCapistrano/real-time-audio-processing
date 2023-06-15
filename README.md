@@ -1,5 +1,9 @@
 # real-time-audio-processing
 
+<p align="center">
+  <img src="./gifs/Animacao.gif">
+</p>
+
 ## 📚 Descrição ##
 **Análise espectral de um sinal de áudio em tempo real utilizando *MATLAB*.**
 
